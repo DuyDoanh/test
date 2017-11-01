@@ -1,3 +1,5 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
 aaa
 add: Đang ki thay doi trong index
+add: Luu trang thai cua commit
+
